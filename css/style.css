@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header {
+}
+.header_list {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    border: khaki 2px solid;
+    background-color: aqua;
+    text-decoration: none;
+    text-transform: capitalize;  
+    
+}
+.header_text {
+    font-size: 55px;
+    font-family: 'Courier New', Courier, monospace;
+    color: khaki~;
+}
+
+.main {
+}
+.container {
+    margin: 30px;
+}
+.info {
+    
+    display: flex;
+    align-items: flex-start;
+    justify-content: start;
+
+    
+}
+.about {
+    margin: 15px;
+    font-size: 30px;
+}
+.lorem {
+    margin:  0 20px 20px 20px;
+}
+.pictures {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.pics{
+    width: 300px ;
+    height: 300px;
+}
+.video {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px ;
+}
+.main_list {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    text-transform: capitalize;
+    }
+.main_logo {
+    margin: 10px;
+
+}
+.icon1{
+    font-size: 35px;
+    color: Green;
+    padding: 7px;
+}
+.icon1:hover{
+    color: white;
+    background: green;
+    border: 2px white solid;
+    transition: 1s;
+}
+.icon2{
+    font-size: 35px;
+    color: pink;
+    padding: 7px;
+    
+}
+.icon2:hover{
+    color: white;
+    background: pink;
+    border: 2px white solid;
+    transition: 1s;
+}
+.icon3{
+    font-size: 35px;
+    color: black;
+    padding: 7px;
+
+}
+.icon3:hover{
+    color: white;
+    background: black;
+    border: 2px white solid;
+    transition: 1s;
+}
+.footer{
+
+    background: khaki;
+}
+.media {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.footer_text {
+    text-align: center;
+    font-size: 50px;
+    margin: 20px 10px;
+    color: #06b0f2;
+}
+.footer_block {
+
+    }
+.foot_icon {
+    font-size:40px;
+    }
+#insta{
+    color: white;
+}
+#facebook{
+    color: blue;
+}
+#youtube{
+    color: red;}
+#twitter{
+    color: #06b0f2;
+}
+#name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 50px;
+}
